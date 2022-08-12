@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "6669a067eeaaed3bee84312428a3e94cd13295f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Dylan Terry",
+      "author_email": "dterry@nasuni.com",
+      "github_username": "dterrynasuni",
+      "project_name": "nasunitest",
+      "project_slug": "nasunitest",
+      "package_name": "nasunitest",
+      "project_short_description": "Test cookiecutter project",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
