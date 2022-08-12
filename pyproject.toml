@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nasunitest"
-version = "0.0.1"
+version = "0.1.0"
 description = "Test cookiecutter project"
 authors = [
     "Dylan Terry <dterry@nasuni.com>",
